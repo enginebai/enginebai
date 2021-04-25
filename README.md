@@ -15,9 +15,9 @@ Developer, Athlete, Learner.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-* With 4 years' experiences of **`Android app`** development. Interested in mobile full stack. 
-* Learn `Flutter` & `Frontend`.
-* Read more about `Investment`, `Learning How to Learn` and `Leadership & Management`.
+* With 5 years' experiences of **`Android app`** development. Interested in mobile full stack. 
+* Start developing in `Flutter` and learn `Frontend` / `Backend`.
+* Read more about `Investment`, `Finance Independence`, `Learning How to Learn` and `Leadership & Management`.
 * Write [Personal Technical Blog](https://enginebai.com/) to share my knowledge.
 
 
